@@ -7,11 +7,17 @@ B.Tech Computer Science Engineering student at Bennett University specializing i
 ### 🛠️ Tech Stack
 
 **Languages:** C++, Java, Python, JavaScript
+
 **Frontend:** React.js, Vite, HTML5, CSS3
+
 **Backend:** Node.js, Express.js, FastAPI, REST APIs
+
 **Databases:** MongoDB, MySQL, SQL, Redis
+
 **AI/ML:** Scikit-learn, Pandas, NumPy
+
 **Tools:** Git, GitHub, Docker, Nginx, PM2, Postman, Firebase, Socket.IO, Razorpay
+
 **Core CS:** DSA, OOP, DBMS, OS, Computer Networks
 
 ### 🚀 Featured Projects
