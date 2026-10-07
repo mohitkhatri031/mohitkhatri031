@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Mohit Khatri 👋
 
-<!--
-**mohitkhatri031/mohitkhatri031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Full Stack Developer
 
-Here are some ideas to get you started:
+B.Tech Computer Science Engineering student at Bennett University specializing in **Full Stack Development**. Interested in **backend engineering, microservices, scalable systems, and AI/ML applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Languages:** C++, Java, Python, JavaScript
+**Frontend:** React.js, Vite, HTML5, CSS3
+**Backend:** Node.js, Express.js, FastAPI, REST APIs
+**Databases:** MongoDB, MySQL, SQL, Redis
+**AI/ML:** Scikit-learn, Pandas, NumPy
+**Tools:** Git, GitHub, Docker, Nginx, PM2, Postman, Firebase, Socket.IO, Razorpay
+**Core CS:** DSA, OOP, DBMS, OS, Computer Networks
+
+### 🚀 Featured Projects
+
+**🔗 URL Shortener — Microservices Backend**
+Node.js · Express.js · MongoDB · Redis · Nginx · PM2
+
+**🤖 AI Business Intelligence & Predictive Analytics**
+Python · FastAPI · Scikit-learn · MySQL · Chart.js
+
+**🍔 Cravings — Food Delivery Application**
+React.js · Node.js · Express.js · MongoDB · Socket.IO · Razorpay
+
+**☀️ UrjaSathi — Smart Solar Energy Optimization**
+React.js · Python · FastAPI · MongoDB · JWT
+
+### 💼 Experience
+
+**Freelance Web Developer — KalpBoalt Industries**
+Developing and deploying a company website using HTML, CSS, and JavaScript.
+
+**Content & Social Media Head — DevOps BU**
+
+### 🎥 Content Creator
+
+**39K+ Subscribers | 8M+ Total Views**
+
+### 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/mohit-khatri-75b292322) · [GitHub](https://github.com/mohitkhatri031) · [Email](mailto:khatrimohit759@gmail.com)
